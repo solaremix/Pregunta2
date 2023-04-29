@@ -1,0 +1,95 @@
+nav {
+    background-color: #D9D9D9;
+}
+
+.container {
+    display: flex;
+    padding: 15px;
+
+}
+
+.page {
+    width: 15%;
+}
+
+.categories {
+    width: 70%;
+}
+
+.log {
+    width: 15%;
+    text-align: end;
+
+}
+
+.midContainer {
+    padding: 10px;
+    display: flex
+}
+
+.firstBox {
+    background-image: url(01.jpg);
+    height: 600px;
+    width: 600px;
+    display: flex;
+    padding: 5px;
+    background-size: 550px;
+}
+
+.play {
+    background-color: yellow;
+    padding: 8px;
+}
+
+.ga {
+    padding-top: 450px;
+    padding-left: 10px;
+}
+
+.secondBox {
+    background-color: #006B0B;
+    height: 260px;
+    width: 264px;
+    background-size: 100%;
+    display: flex;
+    color: aliceblue;
+    padding: 20px;
+    margin-left: 10px;
+}
+
+.thirdBox {
+    background-image: url(02.jpg);
+    height: 300px;
+    width: 328px;
+    background-size: 100%;
+}
+
+.enjoy2 {
+    padding-top: 100px;
+}
+
+.fourthBox{
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 10px;
+    height: 300px;
+    width: 633px;
+    background-size: 100%;
+    background-image: url(03.jpg);
+}
+
+.lol{
+    color: #D9D9D9;
+    padding: 10px;
+    margin-top: 170px;
+}
+
+img {
+    width: 100px;
+}
+
+.rod {
+    background-color: #636363;
+    padding: 5px;
+}
+
